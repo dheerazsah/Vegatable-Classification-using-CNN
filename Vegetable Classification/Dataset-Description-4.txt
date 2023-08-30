@@ -1,0 +1,12 @@
+Description of the Dataset:
+The dataset is for Multi-Class, Single image classification. 
+There are two different folders:
+
+Train:
+It contains the training images of various classes.
+Test:
+It contains the images, of which your model should predict.
+
+The pictures are of various vegetables and are divided into five classes: Bell-Pepper; Lemon; Onion; Potato; Tomato.
+Each Class contains its corresponding vegetable image.
+
